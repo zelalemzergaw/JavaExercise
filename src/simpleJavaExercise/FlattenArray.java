@@ -4,6 +4,7 @@ public class FlattenArray {
     public static void main(String[] args) {
         int arr = add(new int[]{1,2,3,4,5,6,8});
         System.out.println("The value of the array is:" +arr );
+        System.out.println("Hello world");
     }
     public static int add(int [] arry){
         int sum=0;
